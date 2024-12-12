@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.cardContentContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardContentText {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
