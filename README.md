@@ -22,15 +22,21 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 Clone the project repository using the command:
 
-```git clone https://github.com/Haroon-S/Rick-and-Morty-Task.git```
+```bash
+git clone https://github.com/Haroon-S/Rick-and-Morty-Task.git
+```
 
 Navigate into the project directory:
 
-```cd Rick-and-Morty-Task```
+```bash
+cd Rick-and-Morty-Task
+```
 
 Using npm:
 
-```npm install```
+```bash
+npm install
+```
 
 
 Or using yarn:
@@ -41,4 +47,6 @@ Or using yarn:
 Start the Development Server
 Start the development server to run the application in development mode:
 
-```npm run dev```
+```bash 
+npm run dev
+```
