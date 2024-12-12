@@ -1,4 +1,4 @@
-# React + Vite Project
+# Rick and Morty Character Info Project
 
 A blazing-fast React application built with Vite for modern web development.
 
